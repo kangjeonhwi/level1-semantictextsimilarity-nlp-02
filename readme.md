@@ -1,17 +1,11 @@
-# baseline model 
-
-
-
-### 추가 예정
-
-
-# bertForRegressionWithTransformersModel
+# WrapUP Report
+[WrapUP Report](https://basalt-viscount-15f.notion.site/Sentence-Similarity-Measurement-1a6cec41a1a280699a8dd7eaa0f68888)
 
 ## 개요
-대회 데이터셋의 텍스트 - 레이블 간 회귀 관계를 모델링하는 것을 pytorch lightning 대신 hugginface transformers의 BertModel 기반으로 개발
+대회 데이터셋의 텍스트 - 레이블 간 회귀 관계을 pytorch lightning 대신 hugginface transformers의 BertModel 기반으로 개발
+
 ## 환경
 > python3, pytorch, transformers
-> 
 
 ## 파일 구조
 
